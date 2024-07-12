@@ -61,7 +61,7 @@ imgLogoIcon {
 .headerRight .paper-icon-button-light:hover:not(:disabled),
 .innerCardFooterClear,
 .skinHeader {
-  background-color: transparent !important;
+/*   background-color: transparent !important; */
 }
 .headerRight,
 .layout-desktop .emby-tab-button {
